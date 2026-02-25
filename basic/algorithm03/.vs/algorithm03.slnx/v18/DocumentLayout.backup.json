@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\SourceBank\\iot-algorithm-2026\\basic\\algorithm03\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{849C4069-3856-44AC-A00A-245947B420C1}|app01\\app01.vcxproj|C:\\SourceBank\\iot-algorithm-2026\\basic\\algorithm03\\app01\\IntQueue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{849C4069-3856-44AC-A00A-245947B420C1}|app01\\app01.vcxproj|solutionrelative:app01\\IntQueue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{C1146365-1436-4B61-8164-08D019FACA6E}|app05\\app05.vcxproj|C:\\SourceBank\\iot-algorithm-2026\\basic\\algorithm03\\app05\\app05.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C1146365-1436-4B61-8164-08D019FACA6E}|app05\\app05.vcxproj|solutionrelative:app05\\app05.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{849C4069-3856-44AC-A00A-245947B420C1}|app01\\app01.vcxproj|C:\\SourceBank\\iot-algorithm-2026\\basic\\algorithm03\\app01\\app01.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{849C4069-3856-44AC-A00A-245947B420C1}|app01\\app01.vcxproj|solutionrelative:app01\\app01.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{849C4069-3856-44AC-A00A-245947B420C1}|app01\\app01.vcxproj|C:\\SourceBank\\iot-algorithm-2026\\basic\\algorithm03\\app01\\IntQueue.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{849C4069-3856-44AC-A00A-245947B420C1}|app01\\app01.vcxproj|solutionrelative:app01\\IntQueue.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{52226161-E8A5-4B07-8385-B1A9C790307F}|app06\\app06.vcxproj|C:\\SourceBank\\iot-algorithm-2026\\basic\\algorithm03\\app06\\app06.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{52226161-E8A5-4B07-8385-B1A9C790307F}|app06\\app06.vcxproj|solutionrelative:app06\\app06.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,47 +22,28 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IntQueue.c",
-              "DocumentMoniker": "C:\\SourceBank\\iot-algorithm-2026\\basic\\algorithm03\\app01\\IntQueue.c",
-              "RelativeDocumentMoniker": "app01\\IntQueue.c",
-              "ToolTip": "C:\\SourceBank\\iot-algorithm-2026\\basic\\algorithm03\\app01\\IntQueue.c",
-              "RelativeToolTip": "app01\\IntQueue.c",
-              "ViewState": "AgIAAEsAAAAAAAAAAAAqwGIAAAAOAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "app06.c",
+              "DocumentMoniker": "C:\\SourceBank\\iot-algorithm-2026\\basic\\algorithm03\\app06\\app06.c",
+              "RelativeDocumentMoniker": "app06\\app06.c",
+              "ToolTip": "C:\\SourceBank\\iot-algorithm-2026\\basic\\algorithm03\\app06\\app06.c",
+              "RelativeToolTip": "app06\\app06.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-02-24T01:01:44.183Z",
+              "WhenOpened": "2026-02-24T07:15:30.98Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "app01.c",
-              "DocumentMoniker": "C:\\SourceBank\\iot-algorithm-2026\\basic\\algorithm03\\app01\\app01.c",
-              "RelativeDocumentMoniker": "app01\\app01.c",
-              "ToolTip": "C:\\SourceBank\\iot-algorithm-2026\\basic\\algorithm03\\app01\\app01.c",
-              "RelativeToolTip": "app01\\app01.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-02-24T00:48:55.436Z",
-              "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 154,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "IntQueue.h",
-              "DocumentMoniker": "C:\\SourceBank\\iot-algorithm-2026\\basic\\algorithm03\\app01\\IntQueue.h",
-              "RelativeDocumentMoniker": "app01\\IntQueue.h",
-              "ToolTip": "C:\\SourceBank\\iot-algorithm-2026\\basic\\algorithm03\\app01\\IntQueue.h",
-              "RelativeToolTip": "app01\\IntQueue.h",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-02-24T01:01:33.713Z",
+              "Title": "app05.c",
+              "DocumentMoniker": "C:\\SourceBank\\iot-algorithm-2026\\basic\\algorithm03\\app05\\app05.c",
+              "RelativeDocumentMoniker": "app05\\app05.c",
+              "ToolTip": "C:\\SourceBank\\iot-algorithm-2026\\basic\\algorithm03\\app05\\app05.c",
+              "RelativeToolTip": "app05\\app05.c",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-02-24T07:07:20.961Z",
               "EditorCaption": ""
             }
           ]

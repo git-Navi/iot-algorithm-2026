@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\SourceBank\\iot-algorithm-2026\\basic\\algorithm03\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{ADF50FF6-1A6F-484D-B8F8-1003D0512419}|app04\\app04.vcxproj|C:\\SourceBank\\iot-algorithm-2026\\basic\\algorithm03\\app04\\app04.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ADF50FF6-1A6F-484D-B8F8-1003D0512419}|app04\\app04.vcxproj|solutionrelative:app04\\app04.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C1146365-1436-4B61-8164-08D019FACA6E}|app05\\app05.vcxproj|C:\\SourceBank\\iot-algorithm-2026\\basic\\algorithm03\\app05\\app05.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C1146365-1436-4B61-8164-08D019FACA6E}|app05\\app05.vcxproj|solutionrelative:app05\\app05.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -18,11 +22,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 304,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "app04.c",
+              "DocumentMoniker": "C:\\SourceBank\\iot-algorithm-2026\\basic\\algorithm03\\app04\\app04.c",
+              "RelativeDocumentMoniker": "app04\\app04.c",
+              "ToolTip": "C:\\SourceBank\\iot-algorithm-2026\\basic\\algorithm03\\app04\\app04.c",
+              "RelativeToolTip": "app04\\app04.c",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-02-25T01:14:50.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "app06.c",
               "DocumentMoniker": "C:\\SourceBank\\iot-algorithm-2026\\basic\\algorithm03\\app06\\app06.c",
               "RelativeDocumentMoniker": "app06\\app06.c",
@@ -30,18 +47,17 @@
               "RelativeToolTip": "app06\\app06.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-02-24T07:15:30.98Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-24T07:15:30.98Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "app05.c",
               "DocumentMoniker": "C:\\SourceBank\\iot-algorithm-2026\\basic\\algorithm03\\app05\\app05.c",
               "RelativeDocumentMoniker": "app05\\app05.c",
               "ToolTip": "C:\\SourceBank\\iot-algorithm-2026\\basic\\algorithm03\\app05\\app05.c",
               "RelativeToolTip": "app05\\app05.c",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2026-02-24T07:07:20.961Z",
               "EditorCaption": ""
